@@ -7,7 +7,7 @@ Este script em Python foi desenvolvido para facilitar o cálculo do consumo elé
 
 O cálculo baseia-se nas seguintes equações matemáticas:
 
-Consumo Mensal (kWh):$$Consumo = \frac{Potência (W) \times Horas/Dia \times 30}{1000}
+$$Consumo Mensal (kWh):$$Consumo = \frac{Potência (W) \times Horas/Dia \times 30}{1000}$$
 
 $$Custo Mensal (R$):$$Custo = Consumo \times Tarifa$$
 
